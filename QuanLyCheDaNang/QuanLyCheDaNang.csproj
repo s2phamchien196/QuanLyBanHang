@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{14072260-6226-4C36-913F-01419D8CF09A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QuanLyCheDaNang</RootNamespace>
+    <AssemblyName>QuanLyCheDaNang</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoAn.Designer.cs">
+      <DependentUpon>DoAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaDon.Designer.cs">
+      <DependentUpon>HoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ketnoi.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyCheDaNangDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyCheDaNangDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyheDaNang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuanLyheDaNang.Designer.cs">
+      <DependentUpon>QuanLyheDaNang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thanhtoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thanhtoan.Designer.cs">
+      <DependentUpon>Thanhtoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongKe.Designer.cs">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="thongtincanhan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="thongtincanhan.Designer.cs">
+      <DependentUpon>thongtincanhan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoAn.resx">
+      <DependentUpon>DoAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HoaDon.resx">
+      <DependentUpon>HoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuanLyheDaNang.resx">
+      <DependentUpon>QuanLyheDaNang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thanhtoan.resx">
+      <DependentUpon>Thanhtoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongKe.resx">
+      <DependentUpon>ThongKe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="thongkedoanhthu.rdlc" />
+    <EmbeddedResource Include="thongkedoanhthutheodon.rdlc" />
+    <EmbeddedResource Include="thongkedoanhthutheomon.rdlc" />
+    <EmbeddedResource Include="thongkedoanhthutheothang.rdlc" />
+    <EmbeddedResource Include="thongtincanhan.resx">
+      <DependentUpon>thongtincanhan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QuanLyCheDaNangDataSet.xsc">
+      <DependentUpon>QuanLyCheDaNangDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyCheDaNangDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyCheDaNangDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyCheDaNangDataSet.xss">
+      <DependentUpon>QuanLyCheDaNangDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\thongke_nnir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thongke_nnir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tk2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tk1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo chinh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backOd5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anh1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backGDangnhap.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backGDangnhap1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backGDangnhap2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OD.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CTOD.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BGBAn.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CTOD1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CTOD2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CTOD3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banan13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backaddOD3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backaddOD4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ODnew.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ODnew2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ODnew3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ODnew4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ODnew21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ODnew22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ODnew23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ODnew24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BGTK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BGTK1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BGTK2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\od1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\od2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\od11.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\od12.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

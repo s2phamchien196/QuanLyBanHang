@@ -1,0 +1,201 @@
+c:\users\nguyen duy thai\documents\visual studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+c:\users\nguyen duy thai\documents\visual studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+c:\users\nguyen duy thai\documents\visual studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+c:\users\nguyen duy thai\documents\visual studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+c:\users\nguyen duy thai\documents\visual studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+c:\users\nguyen duy thai\documents\visual studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+c:\users\nguyen duy thai\documents\visual studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+c:\users\nguyen duy thai\documents\visual studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+c:\users\nguyen duy thai\documents\visual studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+c:\users\nguyen duy thai\documents\visual studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.DoAn.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.DoAn.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\Admin\Downloads\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.DoAn.resources
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\Nguyen Duy Thai\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ketnoiCSLD.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ketnoiCSLD.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang lats - Copy\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ketnoiCSLD.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ketnoiCSLD.resources
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\Admin\Desktop\rac\Chien\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe.config
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ketnoiCSLD.resources
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.report.resources
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\RdlCompile.cache
+C:\Users\tulaisme\OneDrive\Documents\Visual Studio 2010\Projects\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\RdlCompile.compiled
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe.config
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ketnoiCSLD.resources
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.HoaDon.resources
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\RdlCompile.cache
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\RdlCompile.compiled
+C:\Users\tulaisme\OneDrive\Documents\Code\Tuong Tac Nguoi May\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ThongKe.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe.config
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ketnoiCSLD.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.HoaDon.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ThongKe.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\RdlCompile.cache
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe.config
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ketnoiCSLD.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.HoaDon.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ThongKe.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\RdlCompile.cache
+C:\Users\Admin\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\RdlCompile.compiled
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe.config
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.exe
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.admin.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ketnoiCSLD.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Form1.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.HoaDon.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Properties.Resources.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.QuanLyheDaNang.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.Thanhtoan.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.ThongKe.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.thongtincanhan.resources
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csproj.GenerateResource.Cache
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\RdlCompile.cache
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\RdlCompile.compiled
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.exe
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.pdb
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\bin\Debug\QuanLyCheDaNang.pdb
+C:\Users\tulaisme\Desktop\QuanLyCheDaNang (2)\QuanLyCheDaNang\QuanLyCheDaNang\obj\x86\Debug\QuanLyCheDaNang.csprojResolveAssemblyReference.cache
